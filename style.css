@@ -1,0 +1,222 @@
+body {
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hakkimda {
+    background-color: lavender;
+
+}
+
+.ayrac {
+    border: none;
+    border-top: 3px solid purple;
+    max-width: 300px;
+    margin: 25px auto;
+
+}
+
+.ilavander {
+    color: purple;
+    position: relative;
+    top: -47px;
+
+    font-size: 35px;
+    border: 10px solid lavender;
+    background-color: lavender;
+
+}
+
+.ibeyaz {
+    color: purple;
+    position: relative;
+    top: -47px;
+
+    font-size: 35px;
+    border: 10px solid #ffcccc;
+    background-color: #ffcccc;
+
+}
+
+.ozgeçmişim {
+    background-color: #ffcccc;
+
+}
+
+.sehrim {
+    background-color: #e6faff;
+}
+
+.isiyah {
+    color: purple;
+    position: relative;
+    top: -47px;
+    font-size: 35px;
+    border: 10px solid #e6faff;
+    background-color: #e6faff;
+
+
+
+}
+
+.mirasimiz {
+    background-color: #ffffe6;
+}
+
+.ikirmizi {
+    color: purple;
+    position: relative;
+    top: -47px;
+    font-size: 35px;
+    border: 10px solid #ffffe6;
+    background-color: #ffffe6;
+
+}
+
+.ilgialanlarim {
+    background-color: #e6ffe6;
+}
+
+.imor {
+    color: purple;
+    position: relative;
+    top: -47px;
+    font-size: 35px;
+    border: 10px solid #e6ffe6;
+    background-color: #e6ffe6;
+
+}
+
+.iletisim {
+    background-color: #ffe0cc;
+}
+
+.isari {
+    color: purple;
+    position: relative;
+    top: -47px;
+    font-size: 35px;
+    border: 10px solid #ffe0cc;
+    background-color: #ffe0cc;
+
+}
+
+.login {
+    background-color: #ffe6e6;
+
+}
+
+.iyeşil {
+    color: purple;
+    position: relative;
+    top: -47px;
+    font-size: 35px;
+    border: 10px solid #ffe6e6;
+    background-color: #ffe6e6;
+
+}
+
+.btn {
+    margin: auto;
+    background-color: #00cccc;
+}
+
+.kullaniciadi {
+    margin: auto;
+    width: 350px;
+}
+
+.form-control {
+    width: 320px;
+    margin: auto;
+}
+
+.a {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 12px 20 px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+button[type=gönder] {
+    background-color: #4dffff;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.yazırengi {
+    color: black;
+}
+
+
+
+
+
+/* @media only screen and (max-width:0px){
+    .a img {
+        width: 100%;
+    }
+   div {
+       width:100%;
+    }
+} */
+
+@media (min-width:320px) and (max-width:768px) {
+    .a {
+        padding: 0;
+        width: 100%;
+       
+    }
+}
+
+@media (min-width:320px) and (max-width:768px) {
+    .logins {
+        margin: auto;
+    }
+
+}
+
+footer {
+    text-align: center;
+
+    background-color: DarkSalmon;
+    color: white;
+}
+.ofotter{
+    width:auto;
+ 
+}
+
+.hakkimdafotograf {
+    width: 400px;
+}
+
+
+.jumbotron {
+    padding-top: 100px;
+}
+
+.text-light {
+    color: #ffe0cc;
+}
+
+.yazi {
+    color: #686564;
+}
+
+
+.bg{
+  background-color:  #460000;
+ 
+}
+.ilgi{
+padding-left: 2px;
+}
